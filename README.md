@@ -56,7 +56,7 @@ Stream mapping:
   Stream #0:1 -> #0:1 (copy)
   Stream #1:0 -> #0:2 (webvtt (native) -> mov_text (native))
 Press [q] to stop, [?] for help
-Output #0, mp4, to 'Downloads/Complete WIFI Hacking Course With Powerful MITM Techniques/3 - Setting Up Wireless Penetration Testing Lab/6 - Selecting Compatible Wireless Adapter for Kali Linux_subbed.mp4':
+Output #0, mp4, to '6 - Selecting Compatible Wireless Adapter for Kali Linux_subbed.mp4':
   Metadata:
     major_brand     : isom
     minor_version   : 512
