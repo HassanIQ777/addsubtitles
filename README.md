@@ -13,6 +13,8 @@ git clone https://github.com/HassanIQ777/addsubtitles.git && cd addsubtitles
 ./addVVTsubs.sh <FILE> <SUBS>
 ```
 
+The resulting subbed video has `_subbed` affixed to its name.
+
 FILE must be a video in .mp4 format.
 
 SUBS must be subtitles in .vvt format.
@@ -73,6 +75,7 @@ Output #0, mp4, to 'Downloads/Complete WIFI Hacking Course With Powerful MITM Te
 [out#0/mp4 @ 0x5591560e7b80] video:57926KiB audio:2910KiB subtitle:4KiB other streams:0KiB global headers:0KiB muxing overhead: 0.490839%
 frame=11405 fps=0.0 q=-1.0 Lsize=   61139KiB time=00:06:20.33 bitrate=1316.9kbits/s speed=2.13e+03x elapsed=0:00:00.17
 ```
+This resulted in a file named `6 - Selecting Compatible Wireless Adapter for Kali Linux_subbed.mp4` being genereated.
 
 ## Contributing
 
